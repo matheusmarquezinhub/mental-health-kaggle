@@ -106,3 +106,8 @@ A análise de uma amostra de **2.000 profissionais** revela que a saúde mental 
 
 This analysis shows that mental health risk emerges from interaction effects, not isolated variables.
 
+## 🔗 More analysis
+
+- [Operational Efficiency vs Customer Value](https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value)  
+- [Revenue Storytelling with Data](https://github.com/matheusmarquezinhub/revenue-storytelling-with-data)
+

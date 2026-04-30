@@ -109,5 +109,5 @@ This analysis shows that mental health risk emerges from interaction effects, no
 ## 🔗 More analysis
 
 - [Operational Efficiency vs Customer Value](https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value)  
-- [Revenue Storytelling with Data](https://github.com/matheusmarquezinhub/revenue-storytelling-with-data)
+- [Revenue Data Storytelling](https://github.com/matheusmarquezinhub/revenue-data-storytelling)
 
